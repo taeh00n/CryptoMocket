@@ -1,0 +1,33 @@
+body {
+    background-color: #003b59 !important;
+}
+
+.logo {
+    width: 10%;
+    margin: auto;
+    padding-top: 2%;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.title {
+    color: white;
+}
+
+.nav {
+    margin: auto;
+    width: 50%;
+    font-size: 20px;
+}
+
+.nav a {
+    color: white;
+}
+
+.title {
+    color: white;
+    width: 80%;
+    margin:auto;
+}
